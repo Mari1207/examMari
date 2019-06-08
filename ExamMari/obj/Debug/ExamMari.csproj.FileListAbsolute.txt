@@ -1,0 +1,7 @@
+C:\New folder\ExamMari\ExamMari\obj\Debug\ExamMari.csprojAssemblyReference.cache
+C:\New folder\ExamMari\ExamMari\obj\Debug\ExamMari.csproj.CoreCompileInputs.cache
+C:\New folder\ExamMari\ExamMari\bin\Debug\ExamMari.exe.config
+C:\New folder\ExamMari\ExamMari\bin\Debug\ExamMari.exe
+C:\New folder\ExamMari\ExamMari\bin\Debug\ExamMari.pdb
+C:\New folder\ExamMari\ExamMari\obj\Debug\ExamMari.exe
+C:\New folder\ExamMari\ExamMari\obj\Debug\ExamMari.pdb
